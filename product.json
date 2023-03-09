@@ -1,0 +1,23 @@
+[
+    {
+        "ProductId":101,
+"ProductName":"pencil",
+"Price":1000,
+"Quantity":50
+    },
+    
+    {
+        "ProductId":102,
+"ProductName":"pen",
+"Price":1005,
+"Quantity":50
+    },
+    
+    {
+        "ProductId":103,
+"ProductName":"hero pen",
+"Price":1003,
+"Quantity":55
+    }
+
+]
